@@ -16,7 +16,7 @@ global.APIKeys = {
 global.autoread = false // auto read message
 global.autobio = true 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -28,9 +28,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "HendraBot-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ HendraaBot ×፝֟͜×" //nama kalian
-global.myweb ="" //bebas asal jan hapus
+global.myweb ="https://bit.ly/3QEzYjh" //bebas asal jan hapus
 global.youtube = "" //bebas asal jan hapus
-global.myweb2 = "" //bebas
+global.myweb2 = "https://anjaskelaz.hendrastore.repl.co/" //bebas
 global.email = "stokadit41@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
